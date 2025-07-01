@@ -1,6 +1,6 @@
 # 🚗 ANPR-API: Advanced License Plate Recognition System
 
-This project is a high-performance Automatic Number Plate Recognition (ANPR) pipeline that combines YOLOv8 for license plate detection with TrOCR for text recognition.
+This project is a high-performance Automatic Number Plate Recognition (ANPR) pipeline that combines YOLOv11 for license plate detection with TrOCR for text recognition.
 
 ## 🌟 Features
 
