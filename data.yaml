@@ -1,6 +1,0 @@
-train: /content/datasets/number-plate-detection/images/train
-val: /content/datasets/number-plate-detection/images/val
-nc: 1
-names: [
-    'license_plate'
-]
